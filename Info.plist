@@ -38,6 +38,7 @@
 			<key>LSItemContentTypes</key>
 			<array>
 				<string>net.sourceforge.docutils</string>
+				<string>org.vim.rst-file</string>
 			</array>
 		</dict>
 	</array>
